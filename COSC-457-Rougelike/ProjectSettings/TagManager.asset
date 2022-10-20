@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Item
+  - Bullet
+  - SmartEnemy
+  - HealthPack
+  - SpeedPowerup
+  - Enemy
+  - Stairs
+  - NVG
+  - AK
+  - Shotgun
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Bullet
+  - Water
+  - UI
+  - BlockingLayer
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3654652441
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 4287059147
+    locked: 0
+  - name: Items
+    uniqueID: 3839080093
+    locked: 0
+  - name: Units
+    uniqueID: 3253822285
+    locked: 0
